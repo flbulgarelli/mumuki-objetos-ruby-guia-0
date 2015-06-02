@@ -1,4 +1,4 @@
 describe "asignar" do
-    it { expect(!!defined? mi_nombre).to be true }
-    it { expect(mi_nombre.class).to eq String }
+    it { expect(!!defined? dia_del_mes).to be true }
+    it { expect(dia_del_mes.class).to eq Integer }
 end
